@@ -1,0 +1,3 @@
+[submodule "rottenpotatoes-rails-intro"]
+	path = rottenpotatoes-rails-intro
+	url = git@github.com:saasbook/rottenpotatoes-rails-intro.git
